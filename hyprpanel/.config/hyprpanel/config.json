@@ -48,7 +48,7 @@
   "theme.font.name": "MesloLGS NF",
   "theme.font.label": "MesloLGS NF",
   "theme.font.size": "0.95rem",
-  "menus.media.hideAuthor": true,
+  "menus.media.hideAuthor": false,
   "menus.media.displayTime": false,
   "menus.media.displayTimeTooltip": false,
   "menus.dashboard.powermenu.avatar.image": "/media/yuu/oofers/yuu2.png",
@@ -63,7 +63,7 @@
   "menus.clock.time.military": true,
   "menus.clock.time.hideSeconds": true,
   "menus.clock.weather.location": "Svängsta",
-  "menus.media.hideAlbum": false
+  "menus.media.hideAlbum": false,
   "bar.media.show_label": true,
   "bar.media.truncation": true,
   "bar.media.truncation_size": 50,
