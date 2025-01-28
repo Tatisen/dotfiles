@@ -64,4 +64,8 @@
   "menus.clock.time.hideSeconds": true,
   "menus.clock.weather.location": "Svängsta",
   "menus.media.hideAlbum": false
+  "bar.media.show_label": true,
+  "bar.media.truncation": true,
+  "bar.media.truncation_size": 50,
+  "bar.media.format": "{title}"
 }
