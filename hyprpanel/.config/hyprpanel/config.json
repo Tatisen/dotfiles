@@ -1,0 +1,67 @@
+{
+  "bar.customModules.updates.pollingInterval": 1440000,
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [],
+      "right": [
+        "volume",
+        "media",
+        "clock",
+        "systray",
+        "bluetooth",
+        "notifications"
+      ]
+    },
+    "2": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    }
+  },
+  "theme.bar.transparent": true,
+  "theme.font.name": "MesloLGS NF",
+  "theme.font.label": "MesloLGS NF",
+  "theme.font.size": "0.95rem",
+  "menus.media.hideAuthor": true,
+  "menus.media.displayTime": false,
+  "menus.media.displayTimeTooltip": false,
+  "menus.dashboard.powermenu.avatar.image": "/media/yuu/oofers/yuu2.png",
+  "menus.dashboard.powermenu.avatar.name": "Joel",
+  "theme.bar.menus.menu.dashboard.profile.radius": "1em",
+  "menus.dashboard.controls.enabled": true,
+  "menus.dashboard.stats.enabled": false,
+  "menus.dashboard.shortcuts.enabled": false,
+  "menus.dashboard.directories.right.directory3.command": "",
+  "menus.dashboard.directories.right.directory3.label": "",
+  "menus.dashboard.directories.enabled": false,
+  "menus.clock.time.military": true,
+  "menus.clock.time.hideSeconds": true,
+  "menus.clock.weather.location": "Svängsta",
+  "menus.media.hideAlbum": false
+}
