@@ -13,7 +13,7 @@ My dotfiles for Hyprland
     * neofetch
     * powerlevel10k
 * neovim
-
+* "MesloLGF Nerd" font
 
 # Notes
 * I used `stow` to make all the symlinks. Highly recommend doing the same for this config.
